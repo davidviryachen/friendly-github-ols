@@ -13,3 +13,8 @@ md is markdown
 1. fish
 2. tofu
 3. meat
+
+
+This is [nature link](https://www.nature.com/)
+
+This is [my friends list](./myfriends.md)
